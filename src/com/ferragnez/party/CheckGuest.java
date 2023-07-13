@@ -13,6 +13,8 @@ import java.util.Scanner;
 
 public class CheckGuest {
     public static void main(String[] args) {
+
+
         Scanner scan = new Scanner(System.in);
         String[] guests = {"Dua Lipa","Paris Hilton","Manuel Agnelli","Francesco Totti", "Ilary Blasi","Bebe Vio","Luis","Paradis Zarei","Martina Maccherone","Rachel Zeilic"};
 
